@@ -9,6 +9,8 @@
 
 //function reference store
 const genrate = genratestudent_id();
-genrate();
-genrate();
-genrate();
+const genrate_2 = genratestudent_id();
+genrate(); //101
+genrate(); //102
+genrate(); //103
+genrate_2(); //101
